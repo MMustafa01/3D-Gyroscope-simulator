@@ -1,2 +1,3 @@
 # 3D-Gyroscope-simulator-
 This project collected data from a 3D printed gyroscope to create a dynamic simulator on Creo Parametric. The motivation behind this project was to integrate additive manufacturing technologies, i.e. 3D printing in the teaching of a course at Habib University. The chosen course was PHY 101 Mechanics and thermodynamics. A gyroscope was chosen because it exhibits the principle of conservation of angular momentum. The idea was first to print a 3D prototype that exhibits gyroscopic properties, and then perform dynamic analysis on the CAD model on Creo. This was done so we could compute the values of some variables that were difficult to measure, e.g. rotor speed, angular momentum, etc. 
+
